@@ -1,5 +1,8 @@
 # C# Features Succinctly
-Code for C# Features Succinctly
+
+This is the companion repo for [*C# Features Succinctly*](https://www.syncfusion.com/ebooks/) by Dirk Strauss. Published by Syncfusion.
+
+[![cover](https://github.com/SyncfusionSuccinctlyE-Books/CSharp-Features-Succinctly/blob/master/cover.png)](https://www.syncfusion.com/ebooks/)
 
 ## 1 - The History of C#
 C# is continuing to evolve and improve with each major release of the language. As the C# team is innovating and adding features to C#, they share their thought process around the design of C# with the community.
@@ -91,3 +94,8 @@ With the release of C# 8.0 developers have been given more features and enhancem
   - C# language proposals
   - C# language design meetings
   - C# language design
+  
+
+## Looking for more _Succinctly_ titles?
+
+Check out the entire library of more than 190 _Succinctly_ ebooks at [https://www.syncfusion.com/ebooks](https://www.syncfusion.com/ebooks).
